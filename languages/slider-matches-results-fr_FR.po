@@ -1,0 +1,476 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Matches Results\n"
+"POT-Creation-Date: 2018-06-19 23:40+0200\n"
+"PO-Revision-Date: 2018-06-20 00:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: slider-matches-results.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/class/match.php:377
+msgid "day"
+msgstr "journée"
+
+#: slider-matches-results.php:803 templates/sliders.php:11
+msgid "Sliders"
+msgstr "Curseurs"
+
+#: slider-matches-results.php:806 templates/settings.php:12
+#: templates/settings.php:458 templates/teams.php:11
+msgid "Teams"
+msgstr "Equipes"
+
+#: slider-matches-results.php:807 templates/matches.php:14
+#: templates/settings.php:13 templates/settings.php:515
+msgid "Matches"
+msgstr "Matchs"
+
+#: slider-matches-results.php:808 templates/settings.php:4
+#: templates/settings.php:21 templates/settings.php:329
+#: templates/settings.php:458 templates/settings.php:515
+msgid "Settings"
+msgstr "Paramètres"
+
+#: templates/create_slider.php:4 templates/create_slider.php:14
+#: templates/create_slider.php:294 templates/sliders.php:17
+msgid "Create slider"
+msgstr "Créer un curseur"
+
+#: templates/create_slider.php:13
+msgid "My slyders"
+msgstr "Mes curseurs"
+
+#: templates/create_slider.php:15 templates/create_slider.php:295
+#: templates/settings.php:75 templates/settings.php:124
+#: templates/settings.php:171 templates/settings.php:312
+#: templates/settings.php:448 templates/settings.php:505
+#: templates/settings.php:553 templates/update_slider.php:15
+#: templates/update_slider.php:295
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: templates/create_slider.php:18 templates/settings.php:25
+#: templates/settings.php:333 templates/settings.php:462
+#: templates/settings.php:519 templates/update_slider.php:18
+msgid "Fields with a red border are required"
+msgstr "Les champs avec une bordure rouge sont obligatoires"
+
+#: templates/create_slider.php:19
+msgid "Your slider hasn't been created"
+msgstr "Votre curseur n’a pas été créé"
+
+#: templates/create_slider.php:26 templates/settings.php:10
+#: templates/settings.php:21 templates/update_slider.php:26
+msgid "Slider"
+msgstr "Curseur"
+
+#: templates/create_slider.php:30 templates/teams.php:29 templates/teams.php:77
+#: templates/teams.php:108 templates/teams.php:158
+#: templates/update_slider.php:30
+msgid "Name"
+msgstr "Nom"
+
+#: templates/create_slider.php:36 templates/sliders.php:29
+#: templates/update_slider.php:36
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: templates/create_slider.php:43 templates/settings.php:29
+#: templates/update_slider.php:43
+msgid "Header"
+msgstr "Entête"
+
+#: templates/create_slider.php:48 templates/create_slider.php:57
+#: templates/matches.php:34 templates/matches.php:114 templates/matches.php:182
+#: templates/settings.php:38 templates/settings.php:47
+#: templates/update_slider.php:48 templates/update_slider.php:57
+msgid "Date"
+msgstr "Date"
+
+#: templates/create_slider.php:48 templates/create_slider.php:66
+#: templates/create_slider.php:94 templates/create_slider.php:135
+#: templates/settings.php:38 templates/settings.php:56
+#: templates/settings.php:95 templates/settings.php:152
+#: templates/settings.php:358 templates/settings.php:390
+#: templates/update_slider.php:48 templates/update_slider.php:66
+#: templates/update_slider.php:94 templates/update_slider.php:135
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: templates/create_slider.php:57 templates/create_slider.php:75
+#: templates/create_slider.php:103 templates/create_slider.php:144
+#: templates/settings.php:47 templates/settings.php:65
+#: templates/settings.php:104 templates/settings.php:161
+#: templates/settings.php:349 templates/settings.php:381
+#: templates/update_slider.php:57 templates/update_slider.php:75
+#: templates/update_slider.php:103 templates/update_slider.php:144
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: templates/create_slider.php:66 templates/create_slider.php:75
+#: templates/settings.php:56 templates/settings.php:65
+#: templates/update_slider.php:66 templates/update_slider.php:75
+msgid "Title"
+msgstr "Titre"
+
+#: templates/create_slider.php:88 templates/settings.php:85
+#: templates/update_slider.php:88
+msgid "Content"
+msgstr "Contenu"
+
+#: templates/create_slider.php:112 templates/settings.php:113
+#: templates/update_slider.php:112
+msgid "Max width logo"
+msgstr "Largeur max du logo"
+
+#: templates/create_slider.php:121 templates/settings.php:134
+#: templates/update_slider.php:121
+msgid "Footer"
+msgstr "Bas de page"
+
+#: templates/create_slider.php:126 templates/settings.php:143
+#: templates/update_slider.php:126
+msgid "Display footer"
+msgstr "Afficher le pied de page"
+
+#: templates/create_slider.php:155 templates/settings.php:179
+msgid "Slide"
+msgstr "Diapositive"
+
+#: templates/create_slider.php:165 templates/settings.php:193
+#: templates/update_slider.php:165
+msgid "Infinite"
+msgstr "Infini"
+
+#: templates/create_slider.php:175 templates/create_slider.php:185
+#: templates/settings.php:203 templates/settings.php:213
+#: templates/update_slider.php:175 templates/update_slider.php:185
+msgid "Dots"
+msgstr "Points"
+
+#: templates/create_slider.php:185 templates/create_slider.php:222
+#: templates/settings.php:213 templates/settings.php:250
+#: templates/update_slider.php:185 templates/update_slider.php:222
+msgid "Color"
+msgstr "Couleur"
+
+#: templates/create_slider.php:195 templates/create_slider.php:205
+#: templates/settings.php:223 templates/settings.php:233
+#: templates/update_slider.php:195 templates/update_slider.php:205
+msgid "Autoplay"
+msgstr "Lecture automatique"
+
+#: templates/create_slider.php:205 templates/create_slider.php:263
+#: templates/settings.php:233 templates/settings.php:291
+#: templates/update_slider.php:205 templates/update_slider.php:263
+msgid "Speed"
+msgstr "Vitesse"
+
+#: templates/create_slider.php:212 templates/create_slider.php:222
+#: templates/settings.php:240 templates/settings.php:250
+#: templates/update_slider.php:212 templates/update_slider.php:222
+msgid "Arrows"
+msgstr "Flèches"
+
+#: templates/create_slider.php:232 templates/settings.php:260
+#: templates/update_slider.php:232
+msgid "Arrows in slider"
+msgstr "Flèches dans le curseur"
+
+#: templates/create_slider.php:242 templates/create_slider.php:252
+#: templates/create_slider.php:263 templates/settings.php:270
+#: templates/settings.php:280 templates/settings.php:291
+#: templates/update_slider.php:242 templates/update_slider.php:252
+#: templates/update_slider.php:263
+msgid "Transition"
+msgstr "Transition"
+
+#: templates/create_slider.php:242 templates/settings.php:270
+#: templates/update_slider.php:242
+msgid "Fade"
+msgstr "Fondu"
+
+#: templates/create_slider.php:252 templates/settings.php:280
+#: templates/update_slider.php:252
+msgid "Type"
+msgstr "Type"
+
+#: templates/create_slider.php:270 templates/settings.php:298
+#: templates/update_slider.php:270
+msgid "Swipe"
+msgstr "Balayer"
+
+#: templates/create_slider.php:281 templates/settings.php:309
+#: templates/update_slider.php:281
+msgid "Show slide animation"
+msgstr "Afficher l’animation du diaporama"
+
+#: templates/matches.php:20 templates/matches.php:142
+msgid "Add match"
+msgstr "Ajouter un match"
+
+#: templates/matches.php:21
+msgid "Delete matches"
+msgstr "Supprimer les matchs"
+
+#: templates/matches.php:31 templates/matches.php:87 templates/matches.php:155
+msgid "Home team"
+msgstr "Equipe à domicile"
+
+#: templates/matches.php:32 templates/matches.php:98 templates/matches.php:166
+msgid "Outside team"
+msgstr "Equipe extérieure"
+
+#: templates/matches.php:33 templates/matches.php:108 templates/matches.php:176
+msgid "Week"
+msgstr "Journée"
+
+#: templates/matches.php:35 templates/matches.php:120 templates/matches.php:188
+msgid "Championship"
+msgstr "Championnat"
+
+#: templates/matches.php:36 templates/matches.php:126 templates/matches.php:194
+msgid "Score"
+msgstr "Score"
+
+#: templates/matches.php:53 templates/matches.php:130 templates/sliders.php:42
+#: templates/teams.php:51 templates/teams.php:83 templates/teams.php:134
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: templates/matches.php:56 templates/sliders.php:45 templates/teams.php:54
+msgid "Delete"
+msgstr "Supprimer"
+
+#: templates/matches.php:73
+msgid "Update match"
+msgstr "Mettre à jour le match"
+
+#: templates/matches.php:74 templates/matches.php:131 templates/matches.php:143
+#: templates/matches.php:199 templates/teams.php:72 templates/teams.php:84
+#: templates/teams.php:96 templates/teams.php:135 templates/teams.php:147
+#: templates/teams.php:182
+msgid "Close"
+msgstr "Fermer"
+
+#: templates/matches.php:79
+msgid ""
+"You must fill in the \"Home team\" and the \"Outside team\" field and these "
+"fields should not be equal to validate the modification of your match."
+msgstr ""
+"Vous devez remplir les champs « Équipe à domicile » et « Équipe extérieure » "
+"et ces champs ne doivent pas être égaux pour valider la modification de "
+"votre match."
+
+#: templates/matches.php:148
+msgid ""
+"You must fill in the \"Home team\" and the \"Outside team\" field and these "
+"fields should not be equal to validate the addition of your match."
+msgstr ""
+"Vous devez remplir les champs « Équipe à domicile » et « Équipe extérieure » "
+"et ces champs ne doivent pas être égaux pour valider l’ajout de votre match."
+
+#: templates/matches.php:198 templates/teams.php:181
+msgid "Create"
+msgstr "Créer"
+
+#: templates/settings.php:11 templates/settings.php:329
+msgid "Ranking"
+msgstr "Classement"
+
+#: templates/settings.php:22
+msgid "In this page, You can change the default settings of the sliders."
+msgstr ""
+"Dans cette page, vous pouvez modifier les paramètres par défaut des curseurs."
+
+#: templates/settings.php:26 templates/settings.php:334
+#: templates/settings.php:463 templates/settings.php:520
+msgid "Your settings has been successfully updated"
+msgstr "Vos paramètres ont été mis à jour avec succès"
+
+#: templates/settings.php:76 templates/settings.php:125
+#: templates/settings.php:172 templates/settings.php:311
+#: templates/settings.php:449 templates/settings.php:506
+#: templates/settings.php:554
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: templates/settings.php:330
+msgid "In this page, You can change the default settings of the ranking."
+msgstr ""
+"Dans cette page, vous pouvez modifier les paramètres par défaut du "
+"classement."
+
+#: templates/settings.php:340
+msgid "Display ranking"
+msgstr "Afficher le classement"
+
+#: templates/settings.php:367 templates/settings.php:381
+#: templates/settings.php:390
+msgid "Your team"
+msgstr "Votre équipe"
+
+#: templates/settings.php:370
+msgid "No one"
+msgstr "Aucune"
+
+#: templates/settings.php:399
+msgid "Display border"
+msgstr "Afficher la bordure"
+
+#: templates/settings.php:408
+msgid "Border width"
+msgstr "Largeur de la bordure"
+
+#: templates/settings.php:414
+msgid "Border style"
+msgstr "Style de la border"
+
+#: templates/settings.php:420
+msgid "Border color"
+msgstr "Couleur de la bordure"
+
+#: templates/settings.php:429
+msgid "Nb teams"
+msgstr "Nb équipes"
+
+#: templates/settings.php:435
+msgid "Nb teams above"
+msgstr "Nb équipes au dessus"
+
+#: templates/settings.php:441
+msgid "Nb teams below"
+msgstr "Nb équipes en dessous"
+
+#: templates/settings.php:459
+msgid "In this page, you can change your \"Teams\" administration page."
+msgstr ""
+"Dans cette page, vous pouvez modifier votre page d’administration "
+"« Equipes »."
+
+#: templates/settings.php:469 templates/settings.php:526
+msgid "Order by"
+msgstr "Tirier par"
+
+#: templates/settings.php:485 templates/settings.php:542
+msgid "Number of elements"
+msgstr "Nombre d’éléments"
+
+#: templates/settings.php:495
+msgid "Display logo"
+msgstr "Afficher le logo"
+
+#: templates/settings.php:516
+msgid "In this page, you can change your \"Matches\" administration page."
+msgstr ""
+"Dans cette page, vous pouvez modifier votre page d’administration « Matchs »."
+
+#: templates/sliders.php:18
+msgid "Delete slider"
+msgstr "Supprimer le curseur"
+
+#: templates/sliders.php:28
+msgid "Slider name"
+msgstr "Nom du curseur"
+
+#: templates/teams.php:17 templates/teams.php:146
+msgid "Add Team"
+msgstr "Ajouter une équipe"
+
+#: templates/teams.php:18
+msgid "Delete Teams"
+msgstr "Supprimer les équipes"
+
+#: templates/teams.php:19 templates/teams.php:71
+msgid "Update Teams"
+msgstr "Mettre à jour vos équipes"
+
+#: templates/teams.php:30 templates/teams.php:78 templates/teams.php:114
+#: templates/teams.php:164
+msgid "Position"
+msgstr "Position"
+
+#: templates/teams.php:31 templates/teams.php:79 templates/teams.php:120
+#: templates/teams.php:170
+msgid "Points"
+msgstr "Points"
+
+#: templates/teams.php:32
+msgid "Logo"
+msgstr "Logo"
+
+#: templates/teams.php:95
+msgid "Update Team"
+msgstr "Mettre à jour votre équipe"
+
+#: templates/teams.php:101
+msgid ""
+"You must fill in the \"Name\" field to validate the updating of your team"
+msgstr ""
+"Vous devez remplir les champs « Équipe à domicile » et « Équipe extérieure » "
+"et ces champs ne doivent pas être égaux pour valider l’ajout de votre équipe"
+
+#: templates/teams.php:126 templates/teams.php:176
+msgid "Url"
+msgstr "Url"
+
+#: templates/teams.php:152
+msgid ""
+"You must fill in the \"Name\" field to validate the addition of your team."
+msgstr ""
+"Vous devez remplir les champs « Équipe à domicile » et « Équipe extérieure » "
+"et ces champs ne doivent pas être égaux pour valider l’ajout de votre équipe."
+
+#: templates/update_slider.php:4 templates/update_slider.php:14
+#: templates/update_slider.php:294
+msgid "Update slider"
+msgstr "Mettre à jour le curseur"
+
+#: templates/update_slider.php:13
+msgid "My sliders"
+msgstr "Mes curseurs"
+
+#: templates/update_slider.php:19
+msgid "Your slider has been successfully created"
+msgstr "Votre curseur a été créé avec succès"
+
+#: templates/update_slider.php:20
+msgid "Your slider has been successfully updated"
+msgstr "Votre curseur a été modifié avec succès"
+
+#. Plugin Name of the plugin/theme
+msgid "Slider Matches Results"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows you to create specific sliders for your sports team (Football, "
+"Handball ...)"
+msgstr ""
+"Permet de créer des curseurs spécifiques pour votre équipe sportive "
+"(Football, Handball …)"
+
+#. Author of the plugin/theme
+msgid "Cédric Chevillard"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.cedricchevillard.fr"
+msgstr ""
+
+#~ msgid "Add team"
+#~ msgstr "Ajouter un équipe"

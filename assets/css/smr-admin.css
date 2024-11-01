@@ -1,0 +1,63 @@
+table.dataTable thead .sorting:before, table.dataTable thead .sorting_asc:before, table.dataTable thead .sorting_desc:before, table.dataTable thead .sorting_asc_disabled:before, table.dataTable thead .sorting_desc_disabled:before {
+    right: 1.2em;
+}
+
+.cursor-not-allowed{
+    cursor : not-allowed;
+}
+
+.cursor-grab{
+    cursor : grab;
+}
+
+#smr h1{
+    font-size: 2.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+}
+
+#smr input[type="number"], #smr-create-team input[type="number"], #smr-update-team input[type="number"], #smr-update-teams input[type="number"] {
+    height: auto;
+}
+
+#smr-update-settings-slider-slide-example .slider {
+    width: auto;
+    margin: 30px 50px 50px;
+}
+
+#smr-update-settings-slider-slide-example .slick-slide {
+    background: #007bff;
+    color: white;
+    padding: 40px 0;
+    font-size: 30px;
+    font-family: "Arial", "Helvetica";
+    text-align: center;
+}
+
+#smr-update-settings-slider-slide-example .slick-prev:before, 
+#smr-update-settings-slider-slide-example .slick-next:before {
+    color: black;    
+}
+
+#smr-update-settings-slider-slide-example .slick-prev-in-slide {
+    left: 10px;
+    z-index: 1;
+}
+
+#smr-update-settings-slider-slide-example .slick-next-in-slide {
+    right: 10px;
+    z-index: 1;
+}
+
+
+/*  */
+#smr-create-match .chosen-container, #smr-update-match .chosen-container {
+    display: flex;
+    flex: 1;
+}
+
+#smr-create-match .chosen-container a, #smr-update-match .chosen-container a{
+    flex: 1;
+}
